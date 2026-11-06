@@ -16,7 +16,7 @@ public class SwaggerConfig
     {	
         return new OpenAPI()
                 .info(new Info()
-                        .title("Vendor Service API")
+                        .title("Fee Payment Service API")
                         .version("1.0")
                         .description("REST API Documentation for Vendor microservice")
                         .contact(new Contact()
